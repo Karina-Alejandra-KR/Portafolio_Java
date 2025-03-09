@@ -8,7 +8,7 @@
 html {
     scroll-behavior: smooth;
 }
-/*MENÚ*/
+/*MENÚ ENCABEZADO*/
 .contenedor-header{
     background: #1e2326;
     position: fixed;
